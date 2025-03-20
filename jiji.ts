@@ -1,0 +1,1 @@
+let dafemo: string = "jacky";
